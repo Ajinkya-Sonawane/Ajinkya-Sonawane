@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi/Namaste/Hola 👋
 
-<!--
-**Ajinkya-Sonawane/Ajinkya-Sonawane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ajinkya Sonawane (Yet Another Developer-Developer):
 
-Here are some ideas to get you started:
+- 😄 Pronouns: He/Him <br>
+- 🎓 I'm a graduate student pursuing a masters in Computer Science at [New York University](https://www.nyu.edu/)
+- 🇮🇳  &nbsp;&nbsp;I'm from India and will be studying in the U.S. from Fall 2021.
+- 🇪🇸  &nbsp;&nbsp;Aprendiendo Español (Learning Spanish)
+- ✨ I've just started exploring open source projects
+- 💻 Good with Python and Javascript
+- ⚡ Love watching: MCU, Cosmos, Veritassium, Vsauce
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sonawaneajinks/)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/sonawaneajinks)
