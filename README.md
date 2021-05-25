@@ -1,7 +1,8 @@
 ### Hi/Namaste/Hola 👋
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sonawaneajinks/)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/sonawaneajinks)
 
-I am Ajinkya Sonawane (Yet Another Developer-Developer):
-
+I am Ajinkya Sonawane (Yet Another Developer-Developer): <br>
 - 😄 Pronouns: He/Him <br>
 - 🎓 I'm a graduate student pursuing a masters in Computer Science at [New York University](https://www.nyu.edu/)
 - 🇮🇳  &nbsp;&nbsp;I'm from India and will be studying in the U.S. from Fall 2021.
@@ -10,5 +11,4 @@ I am Ajinkya Sonawane (Yet Another Developer-Developer):
 - 💻 Good with Python and Javascript
 - ⚡ Love watching: MCU, Cosmos, Veritassium, Vsauce
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sonawaneajinks/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/sonawaneajinks)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-sonawane&layout=compact)](https://github.com/ajinkya-sonawane/github-readme-stats)
