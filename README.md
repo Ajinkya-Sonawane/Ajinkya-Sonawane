@@ -11,4 +11,4 @@ I am Ajinkya Sonawane (Yet Another Developer-Developer): <br>
 - 💻 Good with Python and Javascript
 - ⚡ Love watching: MCU, Cosmos, Veritassium, Vsauce
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-sonawane&layout=compact)](https://github.com/ajinkya-sonawane/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-sonawane&layout=compact)
