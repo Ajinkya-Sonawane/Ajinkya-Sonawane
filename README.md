@@ -5,7 +5,7 @@
 I am Ajinkya Sonawane (Yet Another Developer-Developer): <br>
 - 😄 Pronouns: He/Him <br>
 - 🎓 I'm a graduate student pursuing a masters in Computer Science at [New York University](https://www.nyu.edu/)
-- 🇮🇳  &nbsp;&nbsp;I'm from India and will be studying in the U.S. from Fall 2021.
+- 🇮🇳  &nbsp;&nbsp;I'm from India
 - 🇪🇸  &nbsp;&nbsp;Aprendiendo Español (Learning Spanish)
 - ✨ I've just started exploring open source projects
 - 💻 Good with Python and Javascript
