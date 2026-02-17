@@ -12,4 +12,3 @@ I am Ajinkya Sonawane (Yet Another Developer-Developer):
 - 🎯 Passionate about FinTech, AI, and system reliability engineering  
 - ⚡ Love watching: Anime, Cosmos, Veritasium, Vsauce  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-sonawane&layout=compact)
